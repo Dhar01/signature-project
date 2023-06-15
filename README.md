@@ -8,4 +8,4 @@ This project is part of my learning *golang* from the book "Head First Go" by Ja
 - [x] Format the response using HTML
 - [x] Fill the HTML page with signatures
 - [x] Set up a form for adding a new signature
-- [ ] Save submitted signatures
+- [x] Save submitted signatures
