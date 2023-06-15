@@ -1,6 +1,6 @@
 # Signature
 
-This project is part of my learning *golang* from the book "Head First Go" by Jay McGavren.
+This project is part of my learning *golang* from the book "[Head First Go](https://headfirstgo.com/)" by Jay McGavren.
 
 # TO-DO
 
